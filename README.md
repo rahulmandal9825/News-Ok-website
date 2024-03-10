@@ -26,7 +26,6 @@ The project is organized as follows:
 
 src/: Contains the source code for the React frontend.
 components/: React components used in the app.
-services/: Services for interacting with the News API.
 styles/: CSS styles for the components.
 App.js: Main application component.
 index.js: Entry point for the React app.
