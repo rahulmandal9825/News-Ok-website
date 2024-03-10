@@ -17,7 +17,7 @@ License
 Getting Started
 ## To get started with the News App, follow these steps:
 
-Clone the repository: git clone https://github.com/your-username/news-app.git
+Clone the repository: git clone https://github.com/your-username/news-app.git](https://github.com/rahulmandal9825/News-Ok-website.git
 Change into the project directory: cd news-app
 Install dependencies: npm install
 ## Project Structure
