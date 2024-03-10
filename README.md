@@ -1,6 +1,7 @@
 
 
 ## News OK App ReadMe
+![Uploading image.png…]()
 
 ## Project Overview
 Welcome to the News App project! This application is designed to fetch the latest news using the News API and display it in a React-based frontend. The user interface incorporates infinite scrolling for a seamless browsing experience.
